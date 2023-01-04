@@ -61,6 +61,13 @@
         "email": "cnorssister9@mayoclinic.com"
       }
     ],
-    "data" : [],
-    "dogs" : []
+    "data" : [
+      {
+        "id": 1,
+        "name": "Chucho Norssister",
+        "age": 20,
+        "email": "cnorssister9@mayoclinic.com"
+      }
+    ],
+    "furniture" : []
   }
